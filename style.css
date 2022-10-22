@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+background: url('./forest.jpg');
+background-size: cover;
+}
+
+.maindiv{
+    margin: 200px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 25px;
+    letter-spacing: 4px;
+    font-family: monospace;
+    justify-content: center;
+    align-items: center;
+}
+
+#password{
+    margin: 10px;
+border-radius: 5px;
+padding: 10px;
+background-color: rgba(0, 0, 0, 0.2);
+letter-spacing: 3px;
+}
+
+#username{
+    background-color: rgba(0, 0, 0, 0.2);
+    letter-spacing: 3px;
+    border-radius: 5px;
+    padding: 10px;
+}
+#submit{
+    background-color: rgba(0, 0, 0, 0.2);
+    letter-spacing: 3px;
+    border-radius: 5px;
+    padding: 10px;
+}
